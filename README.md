@@ -1,5 +1,7 @@
 # airQuality-Node-RED
 
+{% raw %}
+
 [
     {
         "id": "ea1fdbc1.867118",
@@ -170,3 +172,5 @@
         "order": 2
     }
 ]
+{: .flow}
+{% endraw %}
