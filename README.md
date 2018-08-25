@@ -1,4 +1,8 @@
 # airQuality-Node-RED
+---
+layout: default
+title: Air Quality index
+---
 
 {% raw %}
 ~~~json
