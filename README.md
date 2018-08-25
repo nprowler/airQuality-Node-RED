@@ -3,8 +3,8 @@
 
 
 
-Title: Air Quality index
-
+### Title: Air Quality index
+---
 ### Problem
 Due to the huge amount from forest fires in the area of Calgary. Hitting all time highs of 10+ 
 or 'Very High Risk' in air quality index due to smoke. I wanted a gauge on my node-red dashboard.
