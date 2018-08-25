@@ -1,8 +1,16 @@
 # airQuality-Node-RED
+
 ---
-layout: default
-title: Air Quality index
+
+Title: Air Quality index
 ---
+### Problem
+Due to the hug amount from forest fires in the area of Calgary. Hitting all time highs of 10+ 
+or 'Very High Risk' in air quality index due to smoke. I wanted a gauge on my node-red dashboard.
+
+### Solution
+Check every 10 min "https://weather.gc.ca/airquality/pages/abaq-002_e.html" website and extract the
+index and show it on a gauge and chart.
 
 {% raw %}
 ~~~json
